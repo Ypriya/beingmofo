@@ -1,2 +1,2 @@
 # beingmofo
-Online T-shirt selling website with botstrap effects.
+Online T-shirt selling website with bootstrap effects.
